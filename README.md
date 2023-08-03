@@ -1,2 +1,7 @@
 # sentimental-analysis
 a ML project on sentimental analysis using restaurant reviews from kaggle
+
+In today's world, digital networks play an essential role in information exchange and sharing opinions. People’s psychological impact plays a significant impact in their day-to-day life. Sentiment Analysis is a method of examining a person's views and polarities of thinking. Twitter is a popular medium for expressing ideas, beliefs, and sentiments on a variety of topics. Sentimental Analysis on Twitter is a technique for assessing the views expressed in tweets (messages posted by the user on Twitter). Twitter posts are useful for obtaining the user's emotional value. Polarity is indicated by the data's positive, negative, or unbiased numbers. It concentrates on a person's tweets and hashtags to comprehend the scenarios in each condition. It is the use of content investigation tools to comprehend and organize feelings in relation to content information. It is based on data acquired from student responses to internet-based life debates. Massive amounts of content information are created, but they are difficult to study, interpret, and monotonous. The sentimental analysis aids in the reduction of massive unstructured data to a fundamental and justifiable level. Sentimental analysis is used in a variety of situations, most notably in business. Sentiment analysis can be used in a variety of ways.
+
+**Output**
+
